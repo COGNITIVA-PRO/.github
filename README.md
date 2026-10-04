@@ -14,7 +14,7 @@ To drive sustainable digital transformation in business and society by democrati
 To help clients achieve self-sufficiency in Artificial Intelligence, Machine Learning, and IoT by providing vendor-agnostic knowledge and solutions driven by real business priorities.
 
 ### About Us
-<img src="./images/cognitiva_512x512_B&W.png" style="float: left; width: 200px; margin-right: 15px;">
+<img src="./images/cognitiva_512x512_B&W.png" align="left" width="200" style="margin-right: 15px;">
 COGИITIVA is a proud Brazilian tech company, focused on delivering AI, ML and IoT projects for the three Americas, and most of our projects are delivered by default in three languages (English, Portuguese and Spanish), and are open-sourced under GNU GPLv3 terms.
 
 You can learn more about what COGИITIVA does and how you can contribute to our open-source projects and initiatives on our website https://www.cognitiva.pro or contacting us at mailto:info@cognitiva.pro
